@@ -14,7 +14,7 @@ Welcome to my creative space! I'm a **Creative Director & Coder** exploring the 
 🔹 **Tech-Driven Mindset:** Deeply invested in AI, automation, and the future of creative workflows.  
 🔹 **Studio Sen:** My design and development playground where I **build, experiment, and innovate**.  
 🔹 **AI Enthusiast:** Bridging the gap between **human creativity and machine intelligence**.  
-🔹 **Learning Addict:** Constantly expanding my skillset in **Python, AI development, and game design with Unity**.  
+🔹 **Learning Addict:** Constantly expanding my skillset in **Python, Mindfulness, and game design with Unity**.  
 
 ---
 
