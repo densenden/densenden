@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Denis Kreuzer – The Mind Behind Studio Sen
 
-Welcome to my creative space! I'm a **Creative Director, Designer & Coder** exploring the intersection of **art, technology, and AI-driven automation**. With a deep background in **branding, digital experiences, and strategic design**, I push boundaries to merge creativity with the latest tech innovations.
+Welcome to my creative space! I'm a **Creative Director & Coder** exploring the intersection of **art, technology, and AI-driven automation**. With a deep background in **branding, digital experiences, and strategic design**, I push boundaries to merge creativity with the latest tech innovations.
 
 ---
 
