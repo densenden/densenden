@@ -31,10 +31,11 @@ Welcome to my creative space! I'm a **Creative Director & Coder** exploring the 
 - Developing intelligent design tools
 - AI-generated content & generative art
 - Automation for creative processes
+- Meditation production
 
 ### **💻 DEVELOPMENT & TECH**
 - Python & AI/ML Experiments
-- Unity for Game & XR Development (Exploring Vision Pro)
+- Unity for Game & XR Development (Exploring Apple Vision Pro and Quest 3)
 - Web & App Development (React, Three.js)
 - Data-Driven Design & Interactive Experiences
 
