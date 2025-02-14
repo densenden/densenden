@@ -59,7 +59,7 @@ _(Placeholder for visuals: Showcasing AI-generated designs, branding work, and i
 
 ## 📩 Let's Connect
 
-🚀 [Linktree](https://sound.sen.studio)  
+🚀 [Linktree](https://sound.sen.studio/linktree)  
 
 📧 **Email:** master@sen.studio  
 
