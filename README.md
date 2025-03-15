@@ -53,7 +53,6 @@ I'm currently deep-diving into **Python, AI-driven automation, and Unity develop
 💻 [Code & AI Experiments](https://github.com/densenden)  
 🎭 [Creative Strategy & Thought Pieces](https://medium.sen.studio)  
 
-_(Placeholder for visuals: Showcasing AI-generated designs, branding work, and interactive prototypes.)_
 
 ---
 
