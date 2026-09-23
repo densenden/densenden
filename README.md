@@ -1,66 +1,46 @@
 <!--
-**densenden/densenden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**densenden/densenden** is a special repository: this README.md appears on the GitHub profile.
 -->
 
-# 👋 Hi, I'm Denis Kreuzer – The Mind Behind Studio Sen
+# Denis Kreuzer
 
-Welcome to my creative space! I'm a **Creative Director & Coder** exploring the intersection of **art, technology, and AI-driven automation**. With a deep background in **branding, digital experiences, and strategic design**, I push boundaries to merge creativity with the latest tech innovations.
+**Creative Director & Full-Stack Developer** · Frankfurt · [Studio Sen](https://sen.studio)
 
----
-
-## 🚀 About Me
-
-🔹 **Multidisciplinary Creative:** Merging branding, design, and development to create **immersive digital experiences**.  
-🔹 **Tech-Driven Mindset:** Deeply invested in AI, automation, and the future of creative workflows.  
-🔹 **Studio Sen:** My design and development playground where I **build, experiment, and innovate**.  
-🔹 **AI Enthusiast:** Bridging the gap between **human creativity and machine intelligence**.  
-🔹 **Learning Addict:** Constantly expanding my skillset in **Python, Mindfulness, and game design with Unity**.  
+I digitize companies and make them look better than before.  
+Studio Sen is a one-person tech design studio: consulting, design, and software from one person — first understand, then improve.
 
 ---
 
-## 🔧 What I Do
+## What I build
 
-### **🎨 DESIGN & STRATEGY**
-- Branding & Corporate Design
-- Web & UX/UI Design
-- Creative Concept Development
-- Content Strategy & Visual Storytelling
+| Area | Focus |
+| --- | --- |
+| **Products & MVPs** | React / TypeScript apps with real admin, payments, and AI drafts |
+| **Brand systems** | [UIversial](https://uiversi.al) — Brand OS: one source for website, subsites, and apps |
+| **Studio work** | Offer flow, Lexware/Stripe, booking, SEO blog — shipped on [sen.studio](https://sen.studio) |
+| **Client builds** | Booking portals, catalogs, and ops tools (e.g. KRIA Centro) |
 
-### **💡 AI & AUTOMATION**
-- Implementing AI-powered workflows
-- Developing intelligent design tools
-- AI-generated content & generative art
-- Automation for creative processes
-- Meditation production
-
-### **💻 DEVELOPMENT & TECH**
-- Python & AI/ML Experiments
-- Unity for Game & XR Development (Exploring Apple Vision Pro and Quest 3)
-- Web & App Development (React, Three.js)
-- Data-Driven Design & Interactive Experiences
+Stack I use most: **React**, **TypeScript**, **Tailwind**, **Supabase**, **Vercel**, **Python**.
 
 ---
 
-## 🌱 Learning Journey: What's Next?
+## Featured
 
-I'm currently deep-diving into **Python, AI-driven automation, and Unity development** to expand my technical toolkit. My goal is to **blend code with creativity** to build new-gen applications and immersive experiences for emerging platforms like **Apple Vision Pro**. Stay tuned! 🚀
+- **[sen.studio](https://sen.studio)** — Studio site, packages, cases, blog  
+- **[UIversial](https://uiversi.al)** — Brand OS product ([BrandOS](https://github.com/densenden/BrandOS) on GitHub)  
+- **[KRIA](https://github.com/densenden/kria_one)** — Training / booking community platform  
+- **[forkit](https://github.com/densenden/forkit)** — Open tools for small businesses  
 
----
-
-## 📌 Featured Work
-
-🎨 [Brand & Design Projects](https://www.behance.net/deniskreuzer)  
-💻 [Code & AI Experiments](https://github.com/densenden)  
-🎭 [Creative Strategy & Thought Pieces](https://medium.sen.studio)  
-
+More writing: [sen.studio/blog](https://sen.studio/blog)
 
 ---
 
-## 📩 Let's Connect
+## Connect
 
-🚀 [Linktree](https://sound.sen.studio/linktree)  
+- Site: [sen.studio](https://sen.studio)  
+- Email: [master@sen.studio](mailto:master@sen.studio)  
+- LinkedIn: [denisleifkreuzer](https://www.linkedin.com/in/denisleifkreuzer)  
+- Behance: [deniskreuzer](https://www.behance.net/deniskreuzer)  
+- Company: **SEN.CO UG** · Frankfurt  
 
-📧 **Email:** master@sen.studio  
-
-💡 Open to collaborations, tech-driven design projects & creative AI experiments. Let's build something extraordinary! ✨
-
+Open to product builds, Brand OS setups, and focused digital transformation work.
